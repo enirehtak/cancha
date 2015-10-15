@@ -1,0 +1,71 @@
+.peque{
+	width:50px;
+	height:50px;
+}
+.chancha{
+	background:#006400;
+	width:1120px;
+	height:700px;
+	position: relative;
+	left: 50px;
+	top:50px;
+}
+.balon{
+	position:relative;
+	left:180px;
+	top:-420px;
+	z-index: 1;
+}
+.baloncito{
+	position: relative;
+	left:600px;
+	top:-570px;
+}
+.balonsote{
+	position:relative;
+	left:958px;
+	top:-316px;
+	z-index: 1;
+}
+.linea{
+	border:5px solid white;
+	position: relative;
+	width: 1000px;
+	height: 600px;
+	top:50px;
+	left: 50px;
+	z-index: 1;
+}
+.porteria{
+	border:2px solid white;
+	position: relative;
+	width: 100px;
+	height: 250px;
+	left: 50px;
+	top:-370px;
+	z-index: 1;
+}
+.porteria2{
+	border:2px solid white;
+	position: relative;
+	width: 100px;
+	height: 250px;
+	left: 952px;
+	top:-626px;
+	z-index: 1;
+}
+.centro{
+     width: 140px;
+     height: 140px;
+    border-radius: 50%;
+    border-radius: 50%;
+     border-radius: 50%;
+     background: #006400;
+     z-index: 2;
+     border:2px solid white;
+}
+.centrar{
+	position: relative;
+	margin:auto;
+	top:-840px;
+}
